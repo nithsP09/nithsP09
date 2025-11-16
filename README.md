@@ -3,11 +3,16 @@
 
 I’m a passionate **Frontend Developer** who loves building clean, interactive, and visually aesthetic user interfaces. Currently working as a **Software Engineer** in **Electronikmedia**. I specialize in React, Next.js, Tailwind CSS, shadcn/ui, GSAP animations, and performance-first UI engineering. I enjoy transforming ideas into polished web experiences — from responsive layouts to dynamic dashboards and fully structured frontend architectures.
 
-**🚀 About Me**
+**About Me**
+
 🌟 Frontend Developer with a strong focus on React, Next.js, and UI/UX-driven design
+
 🎨 Love building interfaces that feel smooth, modern, and intuitive
+
 🧠 Strong understanding of component architecture, state management, testing, and optimization
+
 🚀 Actively building scalable real-world applications & improving my skillset every week
+
 📚 Always learning — currently exploring advanced Next.js features & testing automation
 
 **🛠️ Tech Stack & Skills**
