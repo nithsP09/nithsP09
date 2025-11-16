@@ -1,98 +1,51 @@
 👋 Hi, I'm Nithya Parvathy
 Frontend Developer | React & Next.js Specialist | UI Engineer
 
-I’m a passionate Frontend Developer who loves building clean, interactive, and visually aesthetic user interfaces. I specialize in React, Next.js, Tailwind CSS, shadcn/ui, GSAP animations, and performance-first UI engineering.
-
-I enjoy transforming ideas into polished web experiences — from responsive layouts to dynamic dashboards and fully structured frontend architectures.
+I’m a passionate Frontend Developer who loves building clean, interactive, and visually aesthetic user interfaces. I specialize in React, Next.js, Tailwind CSS, shadcn/ui, GSAP animations, and performance-first UI engineering. I enjoy transforming ideas into polished web experiences — from responsive layouts to dynamic dashboards and fully structured frontend architectures.
 
 🚀 About Me
-
 🌟 Frontend Developer with a strong focus on React, Next.js, and UI/UX-driven design
-
 🎨 Love building interfaces that feel smooth, modern, and intuitive
-
 🧠 Strong understanding of component architecture, state management, testing, and optimization
-
 🚀 Actively building scalable real-world applications & improving my skillset every week
-
 📚 Always learning — currently exploring advanced Next.js features & testing automation
 
 🛠️ Tech Stack & Skills
+
 🎨 Frontend Development
-
-HTML, CSS, JavaScript (ES6+)
-
-TypeScript
-
-React.js, Next.js
-
-Tailwind CSS, Material UI, shadcn/ui
-
-Responsive Web Design
-
-GSAP Animations
-
-Accessibility (a11y) Best Practices
+1. HTML, CSS, JavaScript (ES6+)
+2. TypeScript
+3. React.js, Next.js
+4. Tailwind CSS, Material UI, shadcn/ui
+5. Responsive Web Design
+6. GSAP Animations
+7. Accessibility (a11y) Best Practices
 
 ⚙️ State Management & Data Handling
-
-Redux Toolkit
-
-React Query
-
-Context API
-
-REST API Integration
+1. Redux Toolkit
+2. React Query
+3. Context API
+4. REST API Integration
 
 🧪 Testing & Performance
-
-Jest
-
-React Testing Library
-
-Cypress
-
-Performance Optimization
-
-SEO Best Practices
+1. Jest
+2. React Testing Library
+3. Cypress
+4. Performance Optimization
+5. SEO Best Practices
 
 🛠️ Tools & Deployment
-
-Git, GitHub
-
-Vite, Babel
-
-NPM / Yarn / pnpm
-
-Chart.js, Recharts
-
-Vercel Deployment
-
-Lighthouse Audits
+1. Git, GitHub
+2. Vite, Babel
+3. NPM / Yarn / pnpm
+4. Chart.js, Recharts
+5. Vercel Deployment
+6. Lighthouse Audits
 
 💡 Additional Skills
-
-Java
-
-Python
-
-SQL Server
-
-🤝 Professional & Soft Skills
-
-Problem Solving
-
-Critical Thinking
-
-Communication
-
-Team Collaboration
-
-Attention to Detail
-
-Adaptability
-
-Quick Learner
+1. Java
+2. Python
+3. SQL Server
 
 📂 Featured Projects
 
@@ -148,9 +101,6 @@ Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, SEO, Lighthouse Optimizatio
 
 
 🔗 Connect With Me
-
-📧 Email: nithyaparvathy9@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/nithya-parvathy-8887b8201/
-
-🐙 GitHub: https://github.com/nithsP09
+1. 📧 Email: nithyaparvathy9@gmail.com
+2. 💼 LinkedIn: https://www.linkedin.com/in/nithya-parvathy-8887b8201/
+3. 🐙 GitHub: https://github.com/nithsP09
