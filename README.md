@@ -60,8 +60,9 @@ I’m a passionate Frontend Developer who loves building clean, interactive, and
 Here are some of the major projects I’ve built or contributed to.
 
 🔥 E-Commerce Platform (In Development)
-A fully functional modern e-commerce system with product variants, cart logic, search & filtering, mobile-first UI, authentication, and performance-oriented architecture.
-Tech Stack: Next.js (App Router), React 19, TypeScript, Tailwind CSS, shadcn/ui, Firebase Auth, React Context + useReducer, REST API Integration, LocalStorage, ISR, Testing Awareness
+1.A fully functional modern e-commerce system with product variants, cart logic, search & filtering, mobile-first UI, authentication, and performance-oriented architecture.
+
+2.Tech Stack: Next.js (App Router), React 19, TypeScript, Tailwind CSS, shadcn/ui, Firebase Auth, React Context + useReducer, REST API Integration, LocalStorage, ISR, Testing Awareness
 
 📊 Aurarock – Finance Dashboard
 A modern financial analytics dashboard with retirement tools, proposal tracking, metrics visualization, and client management.
