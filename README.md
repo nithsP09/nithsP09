@@ -19,7 +19,6 @@ I’m a passionate **Frontend Developer** who loves building clean, interactive,
 5. **💡 Additional Skills** : Java, Python, SQL Server
 
 **📂 Featured Projects**
-
 Here are some of the major projects I’ve built or contributed to.
 
 **🔥 E-Commerce Platform (In Development)**
