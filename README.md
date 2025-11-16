@@ -1,4 +1,5 @@
-👋 Hi, I'm Nithya Parvathy
+👋 Hi, I'm **Nithya Parvathy**
+
 **Frontend Developer** | React & Next.js Specialist | Software Engineer
 
 I’m a passionate **Frontend Developer** who loves building clean, interactive, and visually aesthetic user interfaces. Currently working as a **Software Engineer** in **Electronikmedia**. I specialize in React, Next.js, Tailwind CSS, shadcn/ui, GSAP animations, and performance-first UI engineering. I enjoy transforming ideas into polished web experiences — from responsive layouts to dynamic dashboards and fully structured frontend architectures.
