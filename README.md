@@ -60,32 +60,43 @@ I’m a passionate Frontend Developer who loves building clean, interactive, and
 Here are some of the major projects I’ve built or contributed to.
 
 🔥 E-Commerce Platform (In Development)
-1.A fully functional modern e-commerce system with product variants, cart logic, search & filtering, mobile-first UI, authentication, and performance-oriented architecture.
+A fully functional modern e-commerce system with product variants, cart logic, search & filtering, mobile-first UI, authentication, and performance-oriented architecture.
 
-2.Tech Stack: Next.js (App Router), React 19, TypeScript, Tailwind CSS, shadcn/ui, Firebase Auth, React Context + useReducer, REST API Integration, LocalStorage, ISR, Testing Awareness
+Tech Stack:
+Next.js (App Router), React 19, TypeScript, Tailwind CSS, shadcn/ui, Firebase Auth, React Context + useReducer, REST API Integration, LocalStorage, ISR, Testing Awareness
 
 📊 Aurarock – Finance Dashboard
 A modern financial analytics dashboard with retirement tools, proposal tracking, metrics visualization, and client management.
-Tech Stack: React, TypeScript, Prisma, Tailwind CSS, Chart.js, Recharts, Responsive Web Design
+
+Tech Stack: 
+React, TypeScript, Prisma, Tailwind CSS, Chart.js, Recharts, Responsive Web Design
 
 👣 Podiatry Residency Resource (PRR)
 A residency training & compliance management tool for podiatry programs. Includes case logging, progress tracking, and a PWA-enabled UI.
-Tech Stack: React, Next.js, Tailwind CSS, TypeScript, REST API, PWA, Responsive Web Design
+
+Tech Stack: 
+React, Next.js, Tailwind CSS, TypeScript, REST API, PWA, Responsive Web Design
 
 🌐 Modern Portfolio Website
 A 5-page portfolio with tooltip interactions, animations, responsiveness, and Web3Forms integration.
-Tech Stack: HTML, CSS, Web3Forms API, Jest, React Testing Library, Responsive Web Design
-🔗 Live: https://nithulakshmisoftwaretester.on.drv.tw/www.NithuPortfolio.com/
+
+Tech Stack: 
+1. HTML, CSS, Web3Forms API, Jest, React Testing Library, Responsive Web Design
+2. 🔗 Live: https://nithulakshmisoftwaretester.on.drv.tw/www.NithuPortfolio.com/
 
 💼 Old Personal Portfolio
 A simple but polished portfolio with Web3Forms API, animations, and responsive layouts.
-Tech Stack: HTML, CSS, JavaScript, Web3Forms API, Jest, RTL, Responsive Web Design
-🔗 Live: https://nithsp09.github.io/My-Personal-Portfolio/
+
+Tech Stack: 
+1. HTML, CSS, JavaScript, Web3Forms API, Jest, RTL, Responsive Web Design
+2. 🔗 Live: https://nithsp09.github.io/My-Personal-Portfolio/
 
 🟦 ElitE Cartons – Premium Packaging Website
 A corporate website for a packaging manufacturer with animations, product highlights, SEO optimization, and clean UI.
-Tech Stack: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, SEO, Lighthouse Optimization, v0 App, Cypress
-🔗 Live: https://elite-cartons.vercel.app/
+
+Tech Stack: 
+1. Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, SEO, Lighthouse Optimization, v0 App, Cypress
+2. 🔗 Live: https://elite-cartons.vercel.app/
 
 🔗 Connect With Me
 1. 📧 Email: nithyaparvathy9@gmail.com
