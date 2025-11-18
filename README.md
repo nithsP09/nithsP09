@@ -70,6 +70,7 @@ Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, SEO, Lighthouse Optimizatio
 🔗 Live: https://elite-cartons.vercel.app/
 
 **🔗 Connect With Me**
+1. 💼 Portfolio: https://nithyaparvathyportfolio.vercel.app/
 1. 📧 Email: nithyaparvathy9@gmail.com
 2. 💼 LinkedIn: https://www.linkedin.com/in/nithya-parvathy-8887b8201/
 3. 🐙 GitHub: https://github.com/nithsP09
