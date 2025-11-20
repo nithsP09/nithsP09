@@ -72,25 +72,25 @@ A PWA-enabled residency training & compliance system with tracking and logging.
 
 ### 🌐 Modern Portfolio Website
 
-A 5-page portfolio with animations, tooltips, and responsive layouts.
-🔗 Live: [https://nithulakshmisoftwaretester.on.drv.tw/www.NithuPortfolio.com/](https://nithulakshmisoftwaretester.on.drv.tw/www.NithuPortfolio.com/)
-**Tech:** HTML, CSS, Web3Forms API, Jest, RTL
+1. A 5-page portfolio with animations, tooltips, and responsive layouts.
+2. 🔗 Live: [https://nithulakshmisoftwaretester.on.drv.tw/www.NithuPortfolio.com/](https://nithulakshmisoftwaretester.on.drv.tw/www.NithuPortfolio.com/)
+3. **Tech:** HTML, CSS, Web3Forms API, Jest, RTL
 
 ---
 
 ### 💼 Old Personal Portfolio
 
-Polished UI, animations, and Web3Forms integration.
-🔗 Live: [https://nithsp09.github.io/My-Personal-Portfolio/](https://nithsp09.github.io/My-Personal-Portfolio/)
-**Tech:** HTML, CSS, JavaScript
+1. Polished UI, animations, and Web3Forms integration.
+2. 🔗 Live: [https://nithsp09.github.io/My-Personal-Portfolio/](https://nithsp09.github.io/My-Personal-Portfolio/)
+3. **Tech:** HTML, CSS, JavaScript
 
 ---
 
 ### 🟦 ElitE Cartons – Premium Packaging Website
 
-Corporate website with animations, SEO optimization, and modern UI.
-🔗 Live: [https://elite-cartons.vercel.app/](https://elite-cartons.vercel.app/)
-**Tech:** Next.js, React, TypeScript, Tailwind, shadcn/ui, Cypress
+1. Corporate website with animations, SEO optimization, and modern UI.
+2. 🔗 Live: [https://elite-cartons.vercel.app/](https://elite-cartons.vercel.app/)
+3. **Tech:** Next.js, React, TypeScript, Tailwind, shadcn/ui, Cypress
 
 ---
 
